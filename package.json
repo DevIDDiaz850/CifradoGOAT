@@ -1,0 +1,12 @@
+{
+  "name": "cifradogoat",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "Este cifrado será hecho para conmemorar al 10 de la historia",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

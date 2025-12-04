@@ -31,7 +31,6 @@ const frases_finales = [
     "¡el broche de oro!"
 ];
 
-// --- FUNCIONES DE CIFRADO Y DESCIFRADO (SIN CAMBIOS) ---
 
 function seleccionarleatorio(array) {
     const indice = Math.floor(Math.random() * array.length);
